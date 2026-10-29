@@ -1,0 +1,10 @@
+From: Grace Thompson <grace.thompson@example.com>
+To: support@shop.example
+Subject: Two-factor code not arriving
+Date: 2026-10-28 12:22
+
+Hello,
+
+I changed my phone number last month and now the two-factor code goes to the old number. I can't log in. What can I do?
+
+Grace

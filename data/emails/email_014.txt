@@ -1,0 +1,10 @@
+From: Marcus Lee <marcus.lee@example.com>
+To: support@shop.example
+Subject: Charged but order says payment failed
+Date: 2026-10-29 07:20
+
+Hi,
+
+I ordered the noise-cancelling headphones yesterday (ORD-1010). My bank shows a 249.00 charge, but the order page says payment failed. Did my order go through or not?
+
+Marcus Lee

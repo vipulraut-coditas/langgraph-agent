@@ -1,0 +1,10 @@
+From: Hannah Weiss <hannah.weiss@example.com>
+To: support@shop.example
+Subject: Change delivery address
+Date: 2026-10-29 09:00
+
+Hi,
+
+For order ORD-1013, can I change the delivery address? I moved flats last week and forgot to update it at checkout. The new address is 14 Marlow Street, Flat 3.
+
+Hannah

@@ -1,0 +1,10 @@
+From: Chloe Martin <chloe.martin@example.com>
+To: support@shop.example
+Subject: Need an invoice
+Date: 2026-10-29 10:05
+
+Hello,
+
+Could you send me an invoice for order ORD-1015? I need it for my records.
+
+Chloe Martin

@@ -1,0 +1,798 @@
+[
+    {
+        "email_id": "email_001.txt",
+        "sender_email": "maya.patel@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1001",
+            "customer_email": "maya.patel@example.com",
+            "item": "Wireless Earbuds Pro",
+            "amount": "79.99",
+            "status": "Delivered",
+            "order_date": "2026-10-02"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1001, placed on 2026-10-02, for Wireless Earbuds Pro valued at 79.99. The current order status is Delivered. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_002.txt",
+        "sender_email": "david.kim@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1008",
+            "customer_email": "david.kim@example.com",
+            "item": "Smart LED Desk Lamp",
+            "amount": "39.9",
+            "status": "Refunded",
+            "order_date": "2026-09-30"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1008, placed on 2026-09-30, for Smart LED Desk Lamp valued at 39.9. The current order status is Refunded. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_003.txt",
+        "sender_email": "elena.rossi@example.com",
+        "category": "refund request",
+        "priority": "high",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1011",
+            "customer_email": "elena.rossi@example.com",
+            "item": "Cast Iron Skillet",
+            "amount": "54.0",
+            "status": "Delivered",
+            "order_date": "2026-10-08"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1011, placed on 2026-10-08, for Cast Iron Skillet valued at 54.0. The current order status is Delivered. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_004.txt",
+        "sender_email": "chloe.martin@example.com",
+        "category": "refund request",
+        "priority": "low",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1015",
+            "customer_email": "chloe.martin@example.com",
+            "item": "Wool Throw Blanket",
+            "amount": "67.0",
+            "status": "Delivered",
+            "order_date": "2026-09-25"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1015, placed on 2026-09-25, for Wool Throw Blanket valued at 67.0. The current order status is Delivered. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_005.txt",
+        "sender_email": "lena.fischer@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1003",
+            "customer_email": "lena.fischer@example.com",
+            "item": "Ergonomic Office Chair",
+            "amount": "189.0",
+            "status": "Processing",
+            "order_date": "2026-10-27"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1003, placed on 2026-10-27, for Ergonomic Office Chair valued at 189.0. The current order status is Processing. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_006.txt",
+        "sender_email": "james.okafor@example.com",
+        "category": "other",
+        "priority": "high",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1002",
+            "customer_email": "james.okafor@example.com",
+            "item": "Stainless Steel Water Bottle",
+            "amount": "24.5",
+            "status": "Shipped",
+            "order_date": "2026-10-24"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_007.txt",
+        "sender_email": "priya.nair@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1005",
+            "customer_email": "priya.nair@example.com",
+            "item": "Yoga Mat Premium",
+            "amount": "34.0",
+            "status": "Cancelled",
+            "order_date": "2026-10-10"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_008.txt",
+        "sender_email": "raj.singh@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1014",
+            "customer_email": "raj.singh@example.com",
+            "item": "Baby Monitor Camera",
+            "amount": "98.5",
+            "status": "Delivered",
+            "order_date": "2026-10-15"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1014, placed on 2026-10-15, for Baby Monitor Camera valued at 98.5. The current order status is Delivered. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_009.txt",
+        "sender_email": "aisha.rahman@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1007",
+            "customer_email": "aisha.rahman@example.com",
+            "item": "Running Shoes",
+            "amount": "112.0",
+            "status": "Shipped",
+            "order_date": "2026-10-22"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1007, placed on 2026-10-22, for Running Shoes valued at 112.0. The current order status is Shipped. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_010.txt",
+        "sender_email": "carlos.mendez@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1004",
+            "customer_email": "carlos.mendez@example.com",
+            "item": "Bluetooth Speaker",
+            "amount": "59.99",
+            "status": "Delivered",
+            "order_date": "2026-09-18"
+        },
+        "reply": "Dear Customer,\n\nThank you for contacting us regarding a refund for order ORD-1004, placed on 2026-09-18, for Bluetooth Speaker valued at 59.99. The current order status is Delivered. We will review your request against our refund policy and confirm the available options. This message does not confirm a refund.\n\nRegards,\nCustomer Support",
+        "escalation": false,
+        "reason": "Email classified and order matched successfully."
+    },
+    {
+        "email_id": "email_011.txt",
+        "sender_email": "james.okafor@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1002",
+            "customer_email": "james.okafor@example.com",
+            "item": "Stainless Steel Water Bottle",
+            "amount": "24.5",
+            "status": "Shipped",
+            "order_date": "2026-10-24"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_012.txt",
+        "sender_email": "hannah.weiss@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1013",
+            "customer_email": "hannah.weiss@example.com",
+            "item": "Mechanical Keyboard",
+            "amount": "89.0",
+            "status": "Processing",
+            "order_date": "2026-10-28"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_013.txt",
+        "sender_email": "aisha.rahman@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1007",
+            "customer_email": "aisha.rahman@example.com",
+            "item": "Running Shoes",
+            "amount": "112.0",
+            "status": "Shipped",
+            "order_date": "2026-10-22"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_014.txt",
+        "sender_email": "marcus.lee@example.com",
+        "category": "other",
+        "priority": "high",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1010",
+            "customer_email": "marcus.lee@example.com",
+            "item": "Noise-Cancelling Headphones",
+            "amount": "249.0",
+            "status": "Payment Failed",
+            "order_date": "2026-10-28"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_015.txt",
+        "sender_email": "omar.haddad@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1012",
+            "customer_email": "omar.haddad@example.com",
+            "item": "Air Fryer 5L",
+            "amount": "129.99",
+            "status": "Shipped",
+            "order_date": "2026-10-20"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_016.txt",
+        "sender_email": "sophie.dubois@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1009",
+            "customer_email": "sophie.dubois@example.com",
+            "item": "Portable Phone Charger",
+            "amount": "29.99",
+            "status": "Delivered",
+            "order_date": "2026-10-12"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_017.txt",
+        "sender_email": "raj.singh@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1014",
+            "customer_email": "raj.singh@example.com",
+            "item": "Baby Monitor Camera",
+            "amount": "98.5",
+            "status": "Delivered",
+            "order_date": "2026-10-15"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_018.txt",
+        "sender_email": "tom.brennan@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1006",
+            "customer_email": "tom.brennan@example.com",
+            "item": "Electric Kettle",
+            "amount": "45.25",
+            "status": "Delivered",
+            "order_date": "2026-10-05"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_019.txt",
+        "sender_email": "sophie.dubois@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1009",
+            "customer_email": "sophie.dubois@example.com",
+            "item": "Portable Phone Charger",
+            "amount": "29.99",
+            "status": "Delivered",
+            "order_date": "2026-10-12"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_020.txt",
+        "sender_email": "omar.haddad@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1012",
+            "customer_email": "omar.haddad@example.com",
+            "item": "Air Fryer 5L",
+            "amount": "129.99",
+            "status": "Shipped",
+            "order_date": "2026-10-20"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_021.txt",
+        "sender_email": "chloe.martin@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1015",
+            "customer_email": "chloe.martin@example.com",
+            "item": "Wool Throw Blanket",
+            "amount": "67.0",
+            "status": "Delivered",
+            "order_date": "2026-09-25"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_022.txt",
+        "sender_email": "maya.patel@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1001",
+            "customer_email": "maya.patel@example.com",
+            "item": "Wireless Earbuds Pro",
+            "amount": "79.99",
+            "status": "Delivered",
+            "order_date": "2026-10-02"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_023.txt",
+        "sender_email": "nina.alvarez@example.com",
+        "category": "account/login issue",
+        "priority": "low",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_024.txt",
+        "sender_email": "kevin.otieno@example.com",
+        "category": "account/login issue",
+        "priority": "low",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_025.txt",
+        "sender_email": "sarah.cohen@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_026.txt",
+        "sender_email": "bilal.ahmed@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_027.txt",
+        "sender_email": "grace.thompson@example.com",
+        "category": "account/login issue",
+        "priority": "low",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_028.txt",
+        "sender_email": "liam.oconnor@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_029.txt",
+        "sender_email": "yuki.tanaka@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_030.txt",
+        "sender_email": "diego.alvarez@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_031.txt",
+        "sender_email": "emma.walsh@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_032.txt",
+        "sender_email": "noah.bennett@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_033.txt",
+        "sender_email": "ava.li@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_034.txt",
+        "sender_email": "hannah.weiss@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1013",
+            "customer_email": "hannah.weiss@example.com",
+            "item": "Mechanical Keyboard",
+            "amount": "89.0",
+            "status": "Processing",
+            "order_date": "2026-10-28"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_035.txt",
+        "sender_email": "chloe.martin@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1015",
+            "customer_email": "chloe.martin@example.com",
+            "item": "Wool Throw Blanket",
+            "amount": "67.0",
+            "status": "Delivered",
+            "order_date": "2026-09-25"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_036.txt",
+        "sender_email": "mia.rossi@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_037.txt",
+        "sender_email": "ethan.park@example.com",
+        "category": "other",
+        "priority": "medium",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_038.txt",
+        "sender_email": "zane.walker@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_039.txt",
+        "sender_email": "tara.nguyen@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_040.txt",
+        "sender_email": "victor.hale@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_041.txt",
+        "sender_email": "no.reply.2291@example.com",
+        "category": "refund request",
+        "priority": "low",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_042.txt",
+        "sender_email": "lena.fischer@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1003",
+            "customer_email": "lena.fischer@example.com",
+            "item": "Ergonomic Office Chair",
+            "amount": "189.0",
+            "status": "Processing",
+            "order_date": "2026-10-27"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Abusive language detected; human review required."
+    },
+    {
+        "email_id": "email_043.txt",
+        "sender_email": "ryan.cole@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_044.txt",
+        "sender_email": "james.okafor@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1002",
+            "customer_email": "james.okafor@example.com",
+            "item": "Stainless Steel Water Bottle",
+            "amount": "24.5",
+            "status": "Shipped",
+            "order_date": "2026-10-24"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Abusive language detected; human review required."
+    },
+    {
+        "email_id": "email_045.txt",
+        "sender_email": "quinn.baker@example.com",
+        "category": "order status",
+        "priority": "low",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_046.txt",
+        "sender_email": "fatima.khan@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_047.txt",
+        "sender_email": "mateo.garcia@example.com",
+        "category": "product complaint",
+        "priority": "medium",
+        "confidence": 0.9,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "No matching order found, or the order reference does not match the sender."
+    },
+    {
+        "email_id": "email_048.txt",
+        "sender_email": "rachel.green@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": false,
+        "order": {},
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_049.txt",
+        "sender_email": "david.kim@example.com",
+        "category": "refund request",
+        "priority": "medium",
+        "confidence": 0.6,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1008",
+            "customer_email": "david.kim@example.com",
+            "item": "Smart LED Desk Lamp",
+            "amount": "39.9",
+            "status": "Refunded",
+            "order_date": "2026-09-30"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    },
+    {
+        "email_id": "email_050.txt",
+        "sender_email": "tom.brennan@example.com",
+        "category": "other",
+        "priority": "low",
+        "confidence": 0.4,
+        "order_found": true,
+        "order": {
+            "order_id": "ORD-1006",
+            "customer_email": "tom.brennan@example.com",
+            "item": "Electric Kettle",
+            "amount": "45.25",
+            "status": "Delivered",
+            "order_date": "2026-10-05"
+        },
+        "reply": "",
+        "escalation": true,
+        "reason": "Classification confidence is too low."
+    }
+]

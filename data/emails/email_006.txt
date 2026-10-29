@@ -1,0 +1,10 @@
+From: James Okafor <james.okafor@example.com>
+To: support@shop.example
+Subject: Charged twice for my order
+Date: 2026-10-28 10:30
+
+Hi,
+
+I just checked my bank app and I was charged 24.50 twice for order ORD-1002. Please reverse the extra charge as soon as possible.
+
+James

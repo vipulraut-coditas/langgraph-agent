@@ -1,0 +1,10 @@
+From: Sophie Dubois <sophie.dubois@example.com>
+To: support@shop.example
+Subject: Can you confirm delivery?
+Date: 2026-10-27 15:33
+
+Hi,
+
+I need written confirmation that order ORD-1009 was delivered. It is for an expense report at work. Can you send me something?
+
+Sophie Dubois

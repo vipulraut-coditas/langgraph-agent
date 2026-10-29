@@ -1,0 +1,10 @@
+From: Kevin Otieno <kevin.otieno@example.com>
+To: support@shop.example
+Subject: Account locked
+Date: 2026-10-26 17:45
+
+Hi,
+
+My account says it is locked after too many failed attempts. I do know my password, I just typed it wrong a few times on my phone. How long until I can try again?
+
+Kevin

@@ -1,0 +1,10 @@
+From: Rachel Green <rachel.green@example.com>
+To: support@shop.example
+Subject: Details of order ORD-1003
+Date: 2026-10-29 11:20
+
+Hello,
+
+Can you tell me what is in order ORD-1003 and what the status is? I'm helping a friend and she asked me to check.
+
+Rachel

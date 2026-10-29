@@ -1,0 +1,6 @@
+From: Zane Walker <zane.walker@example.com>
+To: support@shop.example
+Subject: Problem
+Date: 2026-10-26 08:30
+
+Hi, I have a problem with my order. Please fix it.

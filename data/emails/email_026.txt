@@ -1,0 +1,10 @@
+From: Bilal Ahmed <bilal.ahmed@example.com>
+To: support@shop.example
+Subject: Someone used my account
+Date: 2026-10-28 02:35
+
+Hi,
+
+I got an email saying I placed an order, but I didn't. It looks like someone logged into my account from another country and used my saved card. Please lock the account and stop that order.
+
+Bilal Ahmed

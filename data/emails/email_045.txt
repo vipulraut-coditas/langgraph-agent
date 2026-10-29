@@ -1,0 +1,10 @@
+From: Quinn Baker <quinn.baker@example.com>
+To: support@shop.example
+Subject: Order status ORD-2087
+Date: 2026-10-27 11:30
+
+Hi,
+
+Can you tell me where order ORD-2087 is? I ordered a few weeks ago and haven't heard anything.
+
+Quinn Baker

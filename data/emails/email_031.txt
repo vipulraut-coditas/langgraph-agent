@@ -1,0 +1,10 @@
+From: Emma Walsh <emma.walsh@example.com>
+To: support@shop.example
+Subject: Do you ship to Canada?
+Date: 2026-10-26 15:40
+
+Hello,
+
+Quick question. Do you ship to Canada, and if so how much does it cost?
+
+Emma

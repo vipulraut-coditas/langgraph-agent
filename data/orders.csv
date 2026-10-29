@@ -1,0 +1,16 @@
+order_id,customer_email,item,amount,status,order_date
+ORD-1001,maya.patel@example.com,Wireless Earbuds Pro,79.99,Delivered,2026-10-02
+ORD-1002,james.okafor@example.com,Stainless Steel Water Bottle,24.5,Shipped,2026-10-24
+ORD-1003,lena.fischer@example.com,Ergonomic Office Chair,189.0,Processing,2026-10-27
+ORD-1004,carlos.mendez@example.com,Bluetooth Speaker,59.99,Delivered,2026-09-18
+ORD-1005,priya.nair@example.com,Yoga Mat Premium,34.0,Cancelled,2026-10-10
+ORD-1006,tom.brennan@example.com,Electric Kettle,45.25,Delivered,2026-10-05
+ORD-1007,aisha.rahman@example.com,Running Shoes,112.0,Shipped,2026-10-22
+ORD-1008,david.kim@example.com,Smart LED Desk Lamp,39.9,Refunded,2026-09-30
+ORD-1009,sophie.dubois@example.com,Portable Phone Charger,29.99,Delivered,2026-10-12
+ORD-1010,marcus.lee@example.com,Noise-Cancelling Headphones,249.0,Payment Failed,2026-10-28
+ORD-1011,elena.rossi@example.com,Cast Iron Skillet,54.0,Delivered,2026-10-08
+ORD-1012,omar.haddad@example.com,Air Fryer 5L,129.99,Shipped,2026-10-20
+ORD-1013,hannah.weiss@example.com,Mechanical Keyboard,89.0,Processing,2026-10-28
+ORD-1014,raj.singh@example.com,Baby Monitor Camera,98.5,Delivered,2026-10-15
+ORD-1015,chloe.martin@example.com,Wool Throw Blanket,67.0,Delivered,2026-09-25

@@ -1,0 +1,10 @@
+From: Ethan Park <ethan.park@example.com>
+To: support@shop.example
+Subject: Checkout page is slow
+Date: 2026-10-29 07:45
+
+Hello,
+
+Not a complaint about an order. Your checkout page takes about 15 seconds to load on my phone. Thought you would want to know.
+
+Ethan

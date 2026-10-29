@@ -1,0 +1,10 @@
+From: Nina Alvarez <nina.alvarez@example.com>
+To: support@shop.example
+Subject: Password reset email never arrives
+Date: 2026-10-26 10:00
+
+Hello,
+
+I have asked for a password reset four times and no email comes. I have checked spam. Can you help me get back into my account?
+
+Nina

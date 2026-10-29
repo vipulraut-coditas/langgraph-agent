@@ -1,0 +1,10 @@
+From: Lena Fischer <lena.fischer@example.com>
+To: support@shop.example
+Subject: Please cancel my chair order
+Date: 2026-10-28 07:55
+
+Hello,
+
+I placed order ORD-1003 for the office chair yesterday but I have changed my mind. Please cancel it and refund me. I haven't received anything yet.
+
+Lena Fischer

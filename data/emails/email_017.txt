@@ -1,0 +1,10 @@
+From: Raj Singh <raj.singh@example.com>
+To: support@shop.example
+Subject: Camera keeps disconnecting
+Date: 2026-10-26 20:18
+
+Hi,
+
+The baby monitor camera from ORD-1014 keeps dropping off the Wi-Fi every few hours. I have restarted it and moved the router closer. Same problem. Is there a fix?
+
+Raj

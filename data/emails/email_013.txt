@@ -1,0 +1,11 @@
+From: Aisha Rahman <aisha.rahman@example.com>
+To: support@shop.example
+Subject: Mi pedido no ha llegado
+Date: 2026-10-28 13:44
+
+Hola,
+
+Hice un pedido de zapatillas hace una semana (ORD-1007) y todavia no llega. Pueden decirme donde esta?
+
+Gracias,
+Aisha
